@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Quantos planetas Terra cabem dentro do Sol?",
+    "alt00": "Um milhão",
+    "alt01": "Cem",
+    "alt02": "Seiscentos",
+    "alt03": "Cento de cinquenta",
+    "alt04": "Dois milhões",
+    "correctAnswer": "Um milhão"
+  },
+  {
+    "title": "Em que lugar vivem mais cangurus do que pessoas?",
+    "alt00": "Indonésia",
+    "alt01": "Nova Zelândia",
+    "alt02": "Austrália",
+    "alt03": "Papua-Nova Guiné",
+    "alt04": "África do Sul",
+    "correctAnswer": "Austrália"
+  },
+  {
+    "title": "Quantos olhos a maior parte das aranhas têm?",
+    "alt00": "Dois",
+    "alt01": "Quatro",
+    "alt02": "Quatro pares",
+    "alt03": "Seis",
+    "alt04": "Um",
+    "correctAnswer": "Quatro pares"
+  },
+  {
+    "title": "O que mede a Escala Mercalli?",
+    "alt00": "A intensidade dos ventos",
+    "alt01": "A intensidade sísmica de acordo com os danos provocados",
+    "alt02": "A resistência dos minerais",
+    "alt03": "A magnitude de um terremoto",
+    "alt04": "A eletronegatividade",
+    "correctAnswer": "A intensidade sísmica de acordo com os danos provocados"
+  },
+  {
+    "title": "Qual das alternativas contém apenas nomes de rios?",
+    "alt00": "São Francisco, Douro, Antártico",
+    "alt01": "Nilo, Amazonas, Mississipi",
+    "alt02": "Cáspio, Vermelho, Reno",
+    "alt03": "Tocantins, Bering, Ganges",
+    "alt04": "Danúbio, Jordão, Morto",
+    "correctAnswer": "Nilo, Amazonas, Mississipi"
+  },
+  {
+    "title": "Quanto mede uma girafa?",
+    "alt00": "Entre 4,8 e 5,5 metros",
+    "alt01": "2 metros",
+    "alt02": "Entre 5 e 6 metros",
+    "alt03": "2,5 metros",
+    "alt04": " 4 metros",
+    "correctAnswer": "Entre 4,8 e 5,5 metros"
+  },
+  {
+    "title": "Qual a ciência que estuda a atmosfera da Terra e a climatologia?",
+    "alt00": "Astronomia",
+    "alt01": "Metereologia",
+    "alt02": "Dispersão atmosférica",
+    "alt03": "Meteorologia",
+    "alt04": "Horologia",
+    "correctAnswer": "Metereologia"
+  },
+  {
+    "title": "Quantos braços tem um polvo?",
+    "alt00": "Seis",
+    "alt01": "Oito",
+    "alt02": "Dez",
+    "alt03": "Sete",
+    "alt04": "Três",
+    "correctAnswer": "Oito"
+  },
+  {
+    "title": "Qual das alternativas contém apenas animais cujos esqueletos são externos?",
+    "alt00": "Alfred Nobel, José Bonifácio, Leonardo da Vinci",
+    "alt01": "Machado de Assis, Oscar Niemeyer e Dmitri Mendeleiev",
+    "alt02": "Evangelista Torricelli, Thomas Edison, Pablo Picasso",
+    "alt03": "Stephen Poplawski, Tarsila do Amaral, Amalie Auguste Melitta Bentz",
+    "alt04": "Alexander Graham Bell, Bartolomeu de Gusmão, Galileu Galilei",
+    "correctAnswer": "Alexander Graham Bell, Bartolomeu de Gusmão, Galileu Galilei"
+  },
+  {
+    "title": "Indique quais as respectivas invenções dos inventores Alexander Graham Bell e Galileu Galilei.",
+    "alt00": "Lâmpada e avião",
+    "alt01": "Internet e televisão",
+    "alt02": "Futebol e celular",
+    "alt03": "Telefone e termômetro",
+    "alt04": "Relógio e giroscópio",
+    "correctAnswer": "Telefone e termômetro"
+  },
+  {
+    "title": "Nesses pares, ambos são mamíferos:",
+    "alt00": "Baleia azul e golfinhos",
+    "alt01": "Morcegos e galinhas",
+    "alt02": "Girafas e tartarugas",
+    "alt03": "Porcos e pinguins",
+    "alt04": "Macacos e sapos",
+    "correctAnswer": "Baleia azul e golfinhos"
+  },
+  {
+    "title": "Quanto tempo o vidro demora para se decompor?",
+    "alt00": "500 anos",
+    "alt01": "1000 anos",
+    "alt02": "4000 anos",
+    "alt03": "1 milhão de anos",
+    "alt04": "tempo indeterminado",
+    "correctAnswer": "tempo indeterminado"
+  },
+  {
+    "title": "De que são constituídos os diamantes?",
+    "alt00": "Grafite",
+    "alt01": "Rênio",
+    "alt02": "Carbono",
+    "alt03": "Ósmio",
+    "alt04": "Bóhrio",
+    "correctAnswer": "Carbono"
+  },
+  {
+    "title": "Qual o significado das setas do símbolo internacional da reciclagem Símbolo da reciclagem ♻?",
+    "alt00": "Fabricação, utilização e reutilização",
+    "alt01": "Papel, vidro e metal",
+    "alt02": "Papel, vidro e plástico",
+    "alt03": "Lixo, reaproveitamento e fabricação",
+    "alt04": "Coleta, separação e consumo",
+    "correctAnswer": "Fabricação, utilização e reutilização"
+  },
+  {
+    "title": "Em que ordem aparecem as cores do arco-íris sempre?",
+    "alt00": "Amarelo, laranja, vermelho, azul, anil (ou índigo), verde e violeta",
+    "alt01": "Amarelo, violeta, laranja, verde, vermelho, anil (ou índigo) e azul",
+    "alt02": "Vermelho, laranja, violeta, anil (ou índigo), azul, verde e amarelo",
+    "alt03": "Vermelho, laranja, amarelo, branco, verde, azul e violeta",
+    "alt04": "Vermelho, laranja, amarelo, verde, azul, anil (ou índigo) e violeta",
+    "correctAnswer": "Vermelho, laranja, amarelo, verde, azul, anil (ou índigo) e violeta"
+  },
+  {
+    "title": "Qual dessas aves não voa?",
+    "alt00": "Pinguim",
+    "alt01": "Galinha",
+    "alt02": "Cegonha",
+    "alt03": "Pato",
+    "alt04": "Peru",
+    "correctAnswer": "Pinguim"
+  },
+  {
+    "title": "A quem foi atribuído pela primeira vez o Prêmio Nobel da Paz?",
+    "alt00": "Frédéric Passy",
+    "alt01": "Martin Luther King Jr.",
+    "alt02": "Frédéric Passy e Henry Dunant",
+    "alt03": "Henri Becquerel e Marie Curie",
+    "alt04": "Madre Teresa de Calcutá",
+    "correctAnswer": "Frédéric Passy e Henry Dunant"
+  },
+  {
+    "title": "O que é um Papiloscopista?",
+    "alt00": "Especialista em cópias",
+    "alt01": "Profissional especializado em identificação humana",
+    "alt02": "Indivíduo responsável por crianças órfãs",
+    "alt03": "Pessoa que tem uma pequena saliência cônica na língua",
+    "alt04": "Indivíduo que se dedica ao estudo de papiros",
+    "correctAnswer": "Profissional especializado em identificação humana"
+  },
+  {
+    "title": "Qual é respectivamente o animal terrestre mais lento e o mais veloz?",
+    "alt00": "Bicho-preguiça e guepardo",
+    "alt01": "Tartaruga e leão",
+    "alt02": "Coala e cavalo",
+    "alt03": "Caracol e tubarão",
+    "alt04": "Bicho-preguiça e libélula",
+    "correctAnswer": "Bicho-preguiça e guepardo"
+  }
+]
